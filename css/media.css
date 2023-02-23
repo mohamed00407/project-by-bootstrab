@@ -1,0 +1,29 @@
+
+/* phones and tablets */
+
+@media (max-width:767px){
+    .subscribe .form-control{
+        margin: auto;
+    }
+    .subscribe .btn-danger{
+        margin-top: 10px;
+    }
+
+
+}
+
+/* small screen */
+@media (min-width:768px) and (max-width:991px) {
+
+    
+}
+
+/* medium screen */
+@media (min-width:992px) and (max-width:1199px) {
+    
+}
+
+/* large screen */
+@media (min-width:1200px) {
+    
+}

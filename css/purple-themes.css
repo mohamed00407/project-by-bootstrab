@@ -1,0 +1,33 @@
+/* start box tools */
+.box-tools .box-color{
+
+    border: 4px solid purple;
+
+}
+.box-tools .box-color ul li,.box-tools .gear-box,.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus,.carousel-indicators .active  {
+    background-color: purple;
+}
+
+.navbar-default{
+    border-color:purple;
+}
+
+.about h1 span,.features .feat span.glyphicon, .footer h3,.footer .copyright span{
+    color: purple;
+}
+.testimonials .carousel-indicators li.active
+{
+
+    border:2px solid purple ;
+}
+.price-table .price-box
+{
+
+    border: 1px solid purple;
+
+
+}
+.price-table .price-box:hover p
+{
+border: 2px solid purple;
+}
